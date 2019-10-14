@@ -1,3 +1,3 @@
 FROM  dockersamples/static-site
-ENV AUTHOR="Yuya Mochimaru
+ENV AUTHOR="Yuya Mochimaru"
 
